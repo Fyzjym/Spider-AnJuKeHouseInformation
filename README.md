@@ -17,9 +17,9 @@
   
 3.1主要用的就是 pandas ，图表使用matplotlib
 3.2有一个图表中文显示问题需提出：
-      import matplotlib.pyplot as plt
-      plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签
-      plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+      ` import matplotlib.pyplot as plt
+        plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签
+        plt.rcParams['axes.unicode_minus']=False #用来正常显示负号`
   做图前需要这两行代码。
   余下的分析都在朱皮特文件中，需求注释很全，省略
   
