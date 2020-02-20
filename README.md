@@ -14,7 +14,6 @@
 *轮子，不表。<br>  
   
 3. 数据分析部分<br>  <br>  
-  
 *主要用的就是 pandas ，图表使用matplotlib<br>  
 *有一个图表中文显示问题需提出：<br>  
   ` import matplotlib.pyplot as plt`<br>  
@@ -24,9 +23,8 @@
 *余下的分析都在朱皮特文件中，需求注释很全，省略<br>  
   
   
-  # 总结
-  
-  1.做爬虫异常处理得跟上<br>  
+  # 总结<br>  <br>  
+  1.做爬虫异常处理得跟上<br>
   2.xpath真好用<br>
   3.plt真好玩害<br>  
   4.pandas真有意思嘿，有空要多看看。<br>  
