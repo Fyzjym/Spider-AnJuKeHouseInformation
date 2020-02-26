@@ -20,6 +20,6 @@
   ` plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签`<br>  
   ` plt.rcParams['axes.unicode_minus']=False #用来正常显示负号`<br>  
   做图前需要这两行代码。<br>  
-* 余下的分析都在朱皮特文件中，需求注释很全，省略<br>  
+* 余下的分析都在Jupter Notebook文件中，需求注释很全，省略<br>  
   
   
